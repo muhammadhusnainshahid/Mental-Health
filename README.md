@@ -6,14 +6,12 @@
 A modern **Mental Health & Wellness App UI** built with **Flutter**, designed to help users with guided onboarding, wellness tracking, and a clean experience.
 
 ---
-
 ## 📸 Screenshots
 
-| Onboarding                                                                                  | Relaxation                                                                                | Mood Tracker                                                                             | Dashboard                                                                                     |
-| ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| ![ONBOARD](https://github.com/user-attachments/assets/169bec9e-6ac6-48e8-a782-e8233f5b53a5) | ![RELAX](https://github.com/user-attachments/assets/cd6bc924-5aa8-40af-b6d4-5a8f784206b8) | ![DASHBOARD](https://github.com/user-attachments/assets/da8a6dae-79db-48ab-a376-6e45bfd5dd12) | ![MOOD](https://github.com/user-attachments/assets/a5040540-f3ed-433c-aea2-074baeef27a8) |
+| Onboarding                                                                                  | Relaxation                                                                                | Dashboard                                                                                     | Mood Tracker                                                                             |
+| ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| ![ONBOARD](https://github.com/user-attachments/assets/169bec9e-6ac6-48e8-a782-e8233f5b53a5) | ![RELAX](https://github.com/user-attachments/assets/cd6bc924-5aa8-40af-b6d4-5a8f784206b8) | ![DASHBOARD](https://github.com/user-attachments/assets/a5040540-f3ed-433c-aea2-074baeef27a8) | ![MOOD](https://github.com/user-attachments/assets/da8a6dae-79db-48ab-a376-6e45bfd5dd12) |
 
----
 
 ## 🧱 Project Structure
 
